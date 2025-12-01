@@ -7,9 +7,9 @@ https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
 
 Through a combination of Exploratory Data Analysis (EDA), cohort retention, time-to-first-order analysis, and seller segmentation, this project aims to uncover:
 
-The factors that determine time-to-first order
+1. The factors that determine time-to-first order
 
-Retention rate analysis after first order (Incubation phase)
+2. Retention rate analysis after first order (Incubation phase)
 
 I hope this portfolio can serve as a strong proof of my dedication, analytical capability, and domain knowledge in the e-commerce ecosystem.
 
